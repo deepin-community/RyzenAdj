@@ -1,3 +1,9 @@
+ryzenadj (0.14.0-0deepin2) unstable; urgency=medium
+
+  * Fix the name of recommended ryzen-smu package
+
+ -- mengyutao <mengyutao@deepin.org>  Mon, 16 Oct 2023 16:25:22 +0800
+
 ryzenadj (0.14.0-0deepin1) unstable; urgency=medium
 
   * Initial release.
