@@ -14,6 +14,6 @@ Architecture: amd64
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
-Recommends: ryzenadj-smu
+Recommends: ryzen-smu-dkms
 Description: RyzenAdj tool for adjusting Ryzen Mobile power states.
  Adjust power management settings for Ryzen Mobile Processors.
